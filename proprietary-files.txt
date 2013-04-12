@@ -1,0 +1,13 @@
+bin/akmd
+bin/parse_radio_log
+etc/AudioBTID.csv
+etc/AdieHWCodecSetting.csv
+etc/firmware/bcm4329.hcd
+etc/firmware/default.acdb
+lib/libcamera.so
+lib/libgps.so
+lib/libhtc_acoustic.so
+lib/libhtc_ril.so
+lib/libhtc_ril_wrapper.so
+lib/liboemcamera.so
+lib/librpc.so
